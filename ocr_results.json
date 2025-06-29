@@ -1,0 +1,402 @@
+{
+  "receipt_000.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 398.47
+  },
+  "receipt_001.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 299.73
+  },
+  "receipt_002.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 50.89
+  },
+  "receipt_003.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 300.96
+  },
+  "receipt_004.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 29.15
+  },
+  "receipt_005.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 106.96
+  },
+  "receipt_006.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 309.12
+  },
+  "receipt_007.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 216.54
+  },
+  "receipt_008.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 200.53
+  },
+  "receipt_009.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 183.81
+  },
+  "receipt_010.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 309.57
+  },
+  "receipt_011.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 296.61
+  },
+  "receipt_012.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 340.47
+  },
+  "receipt_013.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 474.49
+  },
+  "receipt_014.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 193.32
+  },
+  "receipt_015.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 342.43
+  },
+  "receipt_016.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 305.39
+  },
+  "receipt_017.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 454.75
+  },
+  "receipt_018.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 377.93
+  },
+  "receipt_019.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 273.81
+  },
+  "receipt_020.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 421.3
+  },
+  "receipt_021.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 447.52
+  },
+  "receipt_022.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 163.94
+  },
+  "receipt_023.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 23.57
+  },
+  "receipt_024.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 373.91
+  },
+  "receipt_025.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 179.02
+  },
+  "receipt_026.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 138.72
+  },
+  "receipt_027.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 38.2
+  },
+  "receipt_028.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 198.05
+  },
+  "receipt_029.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 407.92
+  },
+  "receipt_030.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 395.3
+  },
+  "receipt_031.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 179.87
+  },
+  "receipt_032.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 425.17
+  },
+  "receipt_033.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 32.72
+  },
+  "receipt_034.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 333.3
+  },
+  "receipt_035.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 443.72
+  },
+  "receipt_036.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 485.88
+  },
+  "receipt_037.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 281.08
+  },
+  "receipt_038.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 21.18
+  },
+  "receipt_039.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 13.68
+  },
+  "receipt_040.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 447.99
+  },
+  "receipt_041.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 254.78
+  },
+  "receipt_042.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 302.6
+  },
+  "receipt_043.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 115.17
+  },
+  "receipt_044.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 347.7
+  },
+  "receipt_045.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 404.25
+  },
+  "receipt_046.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 228.81
+  },
+  "receipt_047.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 446.39
+  },
+  "receipt_048.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 61.92
+  },
+  "receipt_049.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 55.92
+  },
+  "receipt_050.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 1.26
+  },
+  "receipt_051.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 4.47
+  },
+  "receipt_052.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 242.93
+  },
+  "receipt_053.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 169.47
+  },
+  "receipt_054.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 110.16
+  },
+  "receipt_055.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 182.45
+  },
+  "receipt_056.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 124.19
+  },
+  "receipt_057.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 151.14
+  },
+  "receipt_058.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 134.12
+  },
+  "receipt_059.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 26.69
+  },
+  "receipt_060.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 317.54
+  },
+  "receipt_061.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 245.24
+  },
+  "receipt_062.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 296.76
+  },
+  "receipt_063.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 119.58
+  },
+  "receipt_064.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 235.68
+  },
+  "receipt_065.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 268.35
+  },
+  "receipt_066.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 76.21
+  },
+  "receipt_067.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 21.35
+  },
+  "receipt_068.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 110.9
+  },
+  "receipt_069.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 114.02
+  },
+  "receipt_070.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 470.32
+  },
+  "receipt_071.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 468.43
+  },
+  "receipt_072.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 367.87
+  },
+  "receipt_073.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 438.79
+  },
+  "receipt_074.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 88.3
+  },
+  "receipt_075.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 265.3
+  },
+  "receipt_076.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 482.74
+  },
+  "receipt_077.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 316.92
+  },
+  "receipt_078.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 350.48
+  },
+  "receipt_079.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 443.66
+  },
+  "receipt_080.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 425.61
+  },
+  "receipt_081.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 449.38
+  },
+  "receipt_082.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 186.77
+  },
+  "receipt_083.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 3.53
+  },
+  "receipt_084.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 243.32
+  },
+  "receipt_085.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 112.91
+  },
+  "receipt_086.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 247.45
+  },
+  "receipt_087.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 325.17
+  },
+  "receipt_088.jpg": {
+    "merchant_name": "Cafe Luna",
+    "total": 154.72
+  },
+  "receipt_089.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 184.49
+  },
+  "receipt_090.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 295.35
+  },
+  "receipt_091.jpg": {
+    "merchant_name": "Book Haven",
+    "total": 446.13
+  },
+  "receipt_092.jpg": {
+    "merchant_name": "Quick Mart",
+    "total": 175.69
+  },
+  "receipt_093.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 246.77
+  },
+  "receipt_094.jpg": {
+    "merchant_name": "Green Grocery",
+    "total": 250.1
+  },
+  "receipt_095.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 323.09
+  },
+  "receipt_096.jpg": {
+    "merchant_name": "Tech Store",
+    "total": 235.5
+  },
+  "receipt_097.jpg": {
+    "merchant_name": "Urban Outfit",
+    "total": 185.71
+  },
+  "receipt_098.jpg": {
+    "merchant_name": "Gear Hub",
+    "total": 166.04
+  },
+  "receipt_099.jpg": {
+    "merchant_name": "Fresh Bites",
+    "total": 481.85
+  }
+}

@@ -12,35 +12,7 @@ The system consists of:
 ---
 
 ##  Project Structure
-karsaazassignment/
-├── app/
-│ ├── init.py
-│ ├── main.py # FastAPI API entrypoint
-│
-├── dataeda/
-│ └── dataeda2.ipynb # EDA and insights
-│
-├── datagenerator/
-│ ├── csvdatagen.py # Generate transaction CSV
-│ └── ocrdatagen.py # Generate fake receipt images
-│
-├── dataset/
-│ ├── receipts/ # Sample receipt images
-│ └── transactions/ # CSV data for transactions
-│
-├── model/
-│ ├── saved_model/ # Trained model output
-│ ├── train.py # Model training script
-│ └── trymodel.ipynb # Testing notebook
-│
-├── ocr_pipeline/
-│ ├── init.py
-│ └── pipeline.py # OCR logic using Tesseract
-│
-├── Dockerfile
-├── requirements.txt
-├── ocr_results.json # Output of OCR pipeline
-└── README.md
+<pre> karsaazassignment/ ├── app/ │ ├── __init__.py │ ├── main.py # FastAPI API entrypoint │ ├── dataeda/ │ └── dataeda2.ipynb # EDA and insights │ ├── datagenerator/ │ ├── csvdatagen.py # Generate transaction CSV │ └── ocrdatagen.py # Generate fake receipt images │ ├── dataset/ │ ├── receipts/ # Sample receipt images │ └── transactions/ # CSV data for transactions │ ├── model/ │ ├── saved_model/ # Trained model output │ ├── train.py # Model training script │ └── trymodel.ipynb # Testing notebook │ ├── ocr_pipeline/ │ ├── __init__.py │ └── pipeline.py # OCR logic using Tesseract │ ├── Dockerfile ├── requirements.txt ├── ocr_results.json # Output of OCR pipeline └── README.md </pre>
 
 ## How to run the docker file 
 
@@ -78,6 +50,9 @@ POST http://localhost:8000/score
   "merchant_name": "Book Haven",
   "total": 50.89
 }
+RESPONSE IMAGE :
+![image](https://github.com/user-attachments/assets/1e1c28a8-0b39-40b7-a25a-8e1ecd25a452)
+
 
 ## NOTE 
 You can regenerate fake data and receipts using csvdatagen.py and ocrdatagen.py

@@ -12,7 +12,7 @@ The system consists of:
 ---
 
 ##  Project Structure
-<pre> karsaazassignment/ ├── app/ │ ├── __init__.py │ ├── main.py # FastAPI API entrypoint │ ├── dataeda/ │ └── dataeda2.ipynb # EDA and insights │ ├── datagenerator/ │ ├── csvdatagen.py # Generate transaction CSV │ └── ocrdatagen.py # Generate fake receipt images │ ├── dataset/ │ ├── receipts/ # Sample receipt images │ └── transactions/ # CSV data for transactions │ ├── model/ │ ├── saved_model/ # Trained model output │ ├── train.py # Model training script │ └── trymodel.ipynb # Testing notebook │ ├── ocr_pipeline/ │ ├── __init__.py │ └── pipeline.py # OCR logic using Tesseract │ ├── Dockerfile ├── requirements.txt ├── ocr_results.json # Output of OCR pipeline └── README.md </pre>
+<pre> task/ ├── app/ │ ├── __init__.py │ ├── main.py # FastAPI API entrypoint │ ├── dataeda/ │ └── dataeda2.ipynb # EDA and insights │ ├── datagenerator/ │ ├── csvdatagen.py # Generate transaction CSV │ └── ocrdatagen.py # Generate fake receipt images │ ├── dataset/ │ ├── receipts/ # Sample receipt images │ └── transactions/ # CSV data for transactions │ ├── model/ │ ├── saved_model/ # Trained model output │ ├── train.py # Model training script │ └── trymodel.ipynb # Testing notebook │ ├── ocr_pipeline/ │ ├── __init__.py │ └── pipeline.py # OCR logic using Tesseract │ ├── Dockerfile ├── requirements.txt ├── ocr_results.json # Output of OCR pipeline └── README.md </pre>
 
 ## How to run the docker file 
 
